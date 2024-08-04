@@ -1,7 +1,7 @@
 import React,{useCallback, useEffect, useState} from 'react'
-import {useSocket} from "../context/SocketProvider";
+
 import { useNavigate } from 'react-router-dom';
-import {v1 as uuid} from "uuid"
+
 
 const Lobby = () => {
   const navigate = useNavigate();
