@@ -7,10 +7,12 @@
 ## Project Description
 
 This project implements a peer-to-peer communication system using WebRTC for real-time audio and video communication, and Node.js with socket.io for signaling. This application allows two users to connect and communicate directly with each other after an initial handshake facilitated by the signaling server.
+This project used Redux tool kit for state management and for making meets I have used zego cloud , which helps me to create meets in less time and gives direct webrtc api to make connections. Also made video conference so that multiple people can join
 
 ## Features:
 Real-Time Communication: Enables real-time video and audio communication between peers.
 WebRTC Technology: Utilizes WebRTC for peer-to-peer data exchange.
+Redux toolkit:state management
 
 ## 1. Make sure you have NODE installed!
 
