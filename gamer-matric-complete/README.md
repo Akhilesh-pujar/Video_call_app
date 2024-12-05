@@ -1,4 +1,4 @@
-# PEER to PEER communication by using web-rtc
+# VIDEO CALL - PEER to PEER communication by using web-rtc
 
 ![WEB-RTC]
 
@@ -6,7 +6,7 @@
 
 ## Project Description
 
-This project implements a peer-to-peer communication system using WebRTC for real-time audio and video communication, and Node.js with socket.io for signaling. This application allows two users to connect and communicate directly with each other after an initial handshake facilitated by the signaling server.
+This project implements a peer-to-peer communication system using WebRTC for real-time audio and video communication and also used ZEGOCLOUD for establishing conferrance room call because i wanted to add the conference chat room for this project in less time. Node.js with socket.io for signaling. This application allows two users to connect and communicate directly with each other after an initial handshake facilitated by the signaling server.
 
 ## Features:
 Real-Time Communication: Enables real-time video and audio communication between peers.
